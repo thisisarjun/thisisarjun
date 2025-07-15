@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Arjun Sunil
 
-<!--
-**thisisarjun/thisisarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer at [Veriff](https://github.com/Veriff)**  
+Driven by a passion for building scalable, reliable software and continuously honing my craft.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Top Skills & Technologies
+
+| **Category**          | **Skills & Tools**                                                                                   |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| 🏗️ **Architecture**   | Software Design & Architecture                                                                      |
+| 🔥 **Backend**        | Node.js · Python · JavaScript · TypeScript                                                          |
+| 💬 **Messaging**      | RabbitMQ · SQS · Kafka                                                                              |
+| 🗄️ **Databases**      | MongoDB · MySQL · PostgreSQL · Redis · Elasticsearch                                                |
+| ☁️ **DevOps & Cloud** | AWS · Docker · Kubernetes · CI/CD                                                                   |
+| 🖥️ **Frontend**       | React · Angular                                                                                     |
+| 🤖 **AI & ML**        | LLMs · LangChain · LangGraph · Prompt Engineering                                                   |
+
+---
+
+### 🌱 What Drives Me
+Continuous learning, exploring new technologies, and striving to deepen my expertise in building scalable and reliable software.
+
+---
+
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/arjunsunil91/)
+- [Personal Site](http://www.thisisasl.com)
+- [Blog](https://medium.com/@arjunsunil)
+
+---
+
+### 🎯 Hobbies
+- Reading books (and more books!)
+- Exploring new tech
+- Blogging
+- Traveling
+
+---
+
+*Feel free to reach out for collaborations or a chat about tech, AI, or software architecture!*
