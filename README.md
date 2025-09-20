@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Arjun Sunil
+## 👋 Hey, I'm Arjun Sunil
 
 **Senior Software Engineer at [Veriff](https://github.com/Veriff)**  
-Driven by a passion for building scalable, reliable software and continuously honing my craft.
+I work with applications, databases and everything in between
 
 ---
 
